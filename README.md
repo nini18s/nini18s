@@ -47,7 +47,7 @@ To provide personal insight and explore how individual preferences relate to bro
 A journaling app designed to help users reflect, track experiences, and revisit past thoughts over time.  
 🔗 [Rewind](https://github.com/nini18s/RewindApp)
 
-### Fiance Warrior – Finance Manager  
+### Finance Warrior – Finance Manager  
 **Tech:** Java  
 A Java application that allows the user to reach customized financial goals through gamified "quests" and achievements, customizing the warrior avatar in the process  
 🔗 [Finance Warrior](https://github.com/nini18s/FinanceWarrior)
