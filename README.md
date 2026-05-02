@@ -50,7 +50,7 @@ A journaling app designed to help users reflect, track experiences, and revisit 
 ### Finance Warrior – Finance Manager  
 **Tech:** Java  
 A Java application that allows the user to reach customized financial goals through gamified "quests" and achievements, customizing the warrior avatar in the process  
-🔗 [Finance Warrior](https://github.com/nini18s/FinanceWarrior)
+🔗 [Finance Warrior](https://github.com/nini18s/Finance_Warrior)
 
 ---
 
